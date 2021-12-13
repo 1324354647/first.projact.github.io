@@ -1,0 +1,24 @@
+body{
+    background-color:  rgb(152,164,228);
+    background: radial-gradient(circle, rgba(152,164,228,1) 0%, rgba(154,255,255,1) 17%, rgba(110,144,240,1) 50%, rgba(238,149,255,1) 92%);;
+}
+table{
+    margin: auto;
+    font-size: 90px;
+}
+img{
+    width: 300px;
+    border-radius: 30px;
+}
+td,th{
+    border: black solid 5px;
+
+}
+td:hover{
+    border: thistle solid 5px;
+    background-color: turquoise;
+}
+th:hover{
+    border: thistle solid 5px;
+    background-color: turquoise;
+}
